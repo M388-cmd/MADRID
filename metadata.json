@@ -1,0 +1,11 @@
+{
+  "name": "Madrid Transit Realtime",
+  "description": "Realtime Passenger Information Display System (PIDS) for Madrid transit.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

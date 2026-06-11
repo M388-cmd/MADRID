@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "5-1",
+    "name": "Las Águilas",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.38119,
+      "long": -3.78027
+    },
+    "address": "Avda del General Fanjul 110",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda del General Fanjul 110"
+  },
+  {
+    "id": "5-2",
+    "name": "Alcalá De Henares",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.48903,
+      "long": -3.36634
+    },
+    "address": "Calle Pedro Lainez 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle Pedro Lainez 2"
+  },
+  {
+    "id": "5-3",
+    "name": "Alcalá De Henares Universidad",
+    "lines": [
+      "C2",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.50534,
+      "long": -3.33541
+    },
+    "address": "Ctra del Campus SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C8A, C8. Dirección: Ctra del Campus SN"
+  },
+  {
+    "id": "5-4",
+    "name": "Alcobendas - S. S. De Los Reyes",
+    "lines": [
+      "C4A"
+    ],
+    "coordinates": {
+      "lat": 40.54657,
+      "long": -3.63519
+    },
+    "address": "Plaza de Francisco Casillas 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A. Dirección: Plaza de Francisco Casillas 1"
+  },
+  {
+    "id": "5-5",
+    "name": "Alcorcón",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.35008,
+      "long": -3.83173
+    },
+    "address": "Avda de Móstoles 12",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda de Móstoles 12"
+  },
+  {
+    "id": "5-6",
+    "name": "Alpedrete",
+    "lines": [
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.65816,
+      "long": -4.03506
+    },
+    "address": "Cmno de la Estación 36",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8. Dirección: Cmno de la Estación 36"
+  },
+  {
+    "id": "5-7",
+    "name": "Aluche",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.38563,
+      "long": -3.76074
+    },
+    "address": "Calle de Valmojado 293",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle de Valmojado 293"
+  },
+  {
+    "id": "5-8",
+    "name": "Aranjuez",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.03483,
+      "long": -3.61831
+    },
+    "address": "Calle de la Estación 5",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Calle de la Estación 5"
+  },
+  {
+    "id": "5-9",
+    "name": "Aravaca",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.44833,
+      "long": -3.78586
+    },
+    "address": "Calle de la Golondrina 104",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Calle de la Golondrina 104"
+  },
+  {
+    "id": "5-10",
+    "name": "Asamblea De Madrid - Entrevías",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.38167,
+      "long": -3.668
+    },
+    "address": "Calle del Vizconde de Arlessón 45",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle del Vizconde de Arlessón 45"
+  },
+  {
+    "id": "5-11",
+    "name": "Madrid Atocha Cercanías",
+    "lines": [
+      "C2",
+      "C3",
+      "C4A",
+      "C4B",
+      "C5",
+      "C7",
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.40659,
+      "long": -3.6893
+    },
+    "address": "Avda de la Ciudad de Barcelona 2 B",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C3, C4A, C4B, C5, C7, C8A, C8, C10. Dirección: Avda de la Ciudad de Barcelona 2 B"
+  },
+  {
+    "id": "5-12",
+    "name": "Azuqueca",
+    "lines": [
+      "C2",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.56103,
+      "long": -3.26546
+    },
+    "address": "Paseo de la Estacion SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C8A, C8. Dirección: Paseo de la Estacion SN"
+  },
+  {
+    "id": "5-13",
+    "name": "El Barrial - C. Com. Pozuelo",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.46537,
+      "long": -3.80774
+    },
+    "address": "Via Ferrocarril SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Via Ferrocarril SN"
+  },
+  {
+    "id": "5-15",
+    "name": "Cantoblanco Universidad",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.54378,
+      "long": -3.70034
+    },
+    "address": "Calle de Freud 3",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle de Freud 3"
+  },
+  {
+    "id": "5-16",
+    "name": "Cercedilla",
+    "lines": [
+      "C8",
+      "C9"
+    ],
+    "coordinates": {
+      "lat": 40.73757,
+      "long": -4.0659
+    },
+    "address": "Calle del Cascajal 7",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8, C9. Dirección: Calle del Cascajal 7"
+  },
+  {
+    "id": "5-18",
+    "name": "Chamartín",
+    "lines": [
+      "C1",
+      "C2",
+      "C3",
+      "C4A",
+      "C4B",
+      "C7",
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.4721,
+      "long": -3.68247
+    },
+    "address": "Calle de Agustín de Foxá 40",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C1, C2, C3, C4A, C4B, C7, C8A, C8, C10. Dirección: Calle de Agustín de Foxá 40"
+  },
+  {
+    "id": "5-19",
+    "name": "Ciempozuelos",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.15906,
+      "long": -3.61003
+    },
+    "address": "Avda de San Juan de Dios 7",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Avda de San Juan de Dios 7"
+  },
+  {
+    "id": "5-20",
+    "name": "Collado Mediano",
+    "lines": [
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.69276,
+      "long": -4.03587
+    },
+    "address": "Paseo de los Rosales 47",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8. Dirección: Paseo de los Rosales 47"
+  },
+  {
+    "id": "5-21",
+    "name": "Colmenar Viejo",
+    "lines": [
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.64497,
+      "long": -3.77573
+    },
+    "address": "Calle de la Doctora Nogales de la Morena SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4B. Dirección: Calle de la Doctora Nogales de la Morena SN"
+  },
+  {
+    "id": "5-22",
+    "name": "Coslada",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.42374,
+      "long": -3.56114
+    },
+    "address": "Calle de Luis Braille 8",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle de Luis Braille 8"
+  },
+  {
+    "id": "5-23",
+    "name": "Cotos",
+    "lines": [
+      "C9"
+    ],
+    "coordinates": {
+      "lat": 40.82226,
+      "long": -3.96452
+    },
+    "address": "Ctra M-604 (de la A-1 al Puerto de Navacerrada) 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C9. Dirección: Ctra M-604 (de la A-1 al Puerto de Navacerrada) 1"
+  },
+  {
+    "id": "5-24",
+    "name": "Cuatro Vientos",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.37771,
+      "long": -3.79143
+    },
+    "address": "Paseo de Extremadura 567 A",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Paseo de Extremadura 567 A"
+  },
+  {
+    "id": "5-25",
+    "name": "Delicias",
+    "lines": [
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.40037,
+      "long": -3.69277
+    },
+    "address": "Calle de Ramírez de Prado 3 B",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C10. Dirección: Calle de Ramírez de Prado 3 B"
+  },
+  {
+    "id": "5-26",
+    "name": "Doce De Octubre",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.37896,
+      "long": -3.69861
+    },
+    "address": "Avda de Córdoba 39",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda de Córdoba 39"
+  },
+  {
+    "id": "5-28",
+    "name": "Embajadores",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.40513,
+      "long": -3.70262
+    },
+    "address": "Gta de Embajadores 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Gta de Embajadores 1"
+  },
+  {
+    "id": "5-29",
+    "name": "El Escorial",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.58527,
+      "long": -4.13233
+    },
+    "address": "Calle Estación Renfe 5",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Calle Estación Renfe 5"
+  },
+  {
+    "id": "5-30",
+    "name": "Maestra Justa Freire - Polideportivo Aluche",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.38365,
+      "long": -3.76856
+    },
+    "address": "Avda de las Águilas 27",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda de las Águilas 27"
+  },
+  {
+    "id": "5-31",
+    "name": "Fuencarral",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.50156,
+      "long": -3.68234
+    },
+    "address": "Calle de Antonio de Cabezón 10",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle de Antonio de Cabezón 10"
+  },
+  {
+    "id": "5-32",
+    "name": "Fuenlabrada",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.28268,
+      "long": -3.79885
+    },
+    "address": "Plaza Constitución 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Plaza Constitución 1"
+  },
+  {
+    "id": "5-33",
+    "name": "Galapagar - La Navata",
+    "lines": [
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.60011,
+      "long": -3.98185
+    },
+    "address": "Ctra de Galapagar-La Navata 154",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A, C8, C10. Dirección: Ctra de Galapagar-La Navata 154"
+  },
+  {
+    "id": "5-34",
+    "name": "Getafe Centro",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.3101,
+      "long": -3.73394
+    },
+    "address": "Calle Ferrocarril 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle Ferrocarril 2"
+  },
+  {
+    "id": "5-35",
+    "name": "Getafe Industrial",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.30548,
+      "long": -3.70769
+    },
+    "address": "Paseo de John Lennon 15400",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Paseo de John Lennon 15400"
+  },
+  {
+    "id": "5-36",
+    "name": "Getafe Sector 3",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.28824,
+      "long": -3.73734
+    },
+    "address": "Calle del Cementerio Municipal SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle del Cementerio Municipal SN"
+  },
+  {
+    "id": "5-37",
+    "name": "El Goloso",
+    "lines": [
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.55857,
+      "long": -3.71407
+    },
+    "address": "Ctra de Colmenar Viejo SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4B. Dirección: Ctra de Colmenar Viejo SN"
+  },
+  {
+    "id": "5-38",
+    "name": "Guadalajara",
+    "lines": [
+      "C2",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.64408,
+      "long": -3.18239
+    },
+    "address": "Plaza de la Estación SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C8A, C8. Dirección: Plaza de la Estación SN"
+  },
+  {
+    "id": "5-40",
+    "name": "Laguna",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.39918,
+      "long": -3.74422
+    },
+    "address": "Calle de Cuart de Poblet 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle de Cuart de Poblet 1"
+  },
+  {
+    "id": "5-41",
+    "name": "Leganes",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.32899,
+      "long": -3.77148
+    },
+    "address": "Calle Virgen del Camino 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle Virgen del Camino 1"
+  },
+  {
+    "id": "5-42",
+    "name": "Majadahonda",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.47428,
+      "long": -3.84534
+    },
+    "address": "Cmno Estación del Plantío 6",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Cmno Estación del Plantío 6"
+  },
+  {
+    "id": "5-43",
+    "name": "Las Margaritas - Universidad",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.32304,
+      "long": -3.72737
+    },
+    "address": "Calle Madrid 152",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle Madrid 152"
+  },
+  {
+    "id": "5-44",
+    "name": "Las Matas",
+    "lines": [
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.55252,
+      "long": -3.89683
+    },
+    "address": "Plaza del Ferrocarril 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A, C8, C10. Dirección: Plaza del Ferrocarril 1"
+  },
+  {
+    "id": "5-45",
+    "name": "Meco",
+    "lines": [
+      "C2",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.53462,
+      "long": -3.29866
+    },
+    "address": "Trva de la Calera 3",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C8A, C8. Dirección: Trva de la Calera 3"
+  },
+  {
+    "id": "5-46",
+    "name": "Méndez Álvaro",
+    "lines": [
+      "C5",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.39538,
+      "long": -3.67808
+    },
+    "address": "Calle del Ombu 16",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5, C10. Dirección: Calle del Ombu 16"
+  },
+  {
+    "id": "5-47",
+    "name": "Los Molinos",
+    "lines": [
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.70734,
+      "long": -4.06681
+    },
+    "address": "Gta de la Estación 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8. Dirección: Gta de la Estación 2"
+  },
+  {
+    "id": "5-48",
+    "name": "Móstoles",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.3285,
+      "long": -3.86349
+    },
+    "address": "Paseo de la Estación 13",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Paseo de la Estación 13"
+  },
+  {
+    "id": "5-49",
+    "name": "Móstoles El Soto",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.33089,
+      "long": -3.88234
+    },
+    "address": "Calle Granada 17",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle Granada 17"
+  },
+  {
+    "id": "5-50",
+    "name": "Los Negrales",
+    "lines": [
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.63858,
+      "long": -4.02189
+    },
+    "address": "Avda de la Reina Victoria 47",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8. Dirección: Avda de la Reina Victoria 47"
+  },
+  {
+    "id": "5-51",
+    "name": "Nuevos Ministerios",
+    "lines": [
+      "C2",
+      "C3",
+      "C4A",
+      "C4B",
+      "C7",
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.44662,
+      "long": -3.69234
+    },
+    "address": "Calle de Raimundo Fernández Villaverde 67",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C3, C4A, C4B, C7, C8A, C8, C10. Dirección: Calle de Raimundo Fernández Villaverde 67"
+  },
+  {
+    "id": "5-52",
+    "name": "Orcasitas",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.36691,
+      "long": -3.70442
+    },
+    "address": "Calle de Campotejar 24",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle de Campotejar 24"
+  },
+  {
+    "id": "5-53",
+    "name": "Parla",
+    "lines": [
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.24077,
+      "long": -3.76936
+    },
+    "address": "Calle Real 81",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B. Dirección: Calle Real 81"
+  },
+  {
+    "id": "5-55",
+    "name": "Pinar De Las Rozas",
+    "lines": [
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.5223,
+      "long": -3.88216
+    },
+    "address": "Lugar Estación Ferrocarril El Pinar 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A, C8, C10. Dirección: Lugar Estación Ferrocarril El Pinar 1"
+  },
+  {
+    "id": "5-56",
+    "name": "Pinto",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.24279,
+      "long": -3.70374
+    },
+    "address": "Calle del Ferrocarril 4",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Calle del Ferrocarril 4"
+  },
+  {
+    "id": "5-57",
+    "name": "Pirámides",
+    "lines": [
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.4026,
+      "long": -3.71134
+    },
+    "address": "Paseo del Doctor Vallejo Nágera 37",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C10. Dirección: Paseo del Doctor Vallejo Nágera 37"
+  },
+  {
+    "id": "5-58",
+    "name": "Pitis",
+    "lines": [
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.4951,
+      "long": -3.72584
+    },
+    "address": "Ctra a la Estación de Pitis 19",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C8A, C8. Dirección: Ctra a la Estación de Pitis 19"
+  },
+  {
+    "id": "5-59",
+    "name": "El Pozo",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.3759,
+      "long": -3.65623
+    },
+    "address": "Avda de Entrevías 140",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Avda de Entrevías 140"
+  },
+  {
+    "id": "5-60",
+    "name": "Pozuelo",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.44727,
+      "long": -3.80012
+    },
+    "address": "Calle Estación 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Calle Estación 2"
+  },
+  {
+    "id": "5-61",
+    "name": "Príncipe Pío",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.42107,
+      "long": -3.72026
+    },
+    "address": "Paseo de la Florida 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Paseo de la Florida 2"
+  },
+  {
+    "id": "5-62",
+    "name": "Puente Alcocer",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.35028,
+      "long": -3.70516
+    },
+    "address": "Calle de Alcocer 54",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle de Alcocer 54"
+  },
+  {
+    "id": "5-63",
+    "name": "Puerto Navacerrada",
+    "lines": [
+      "C9"
+    ],
+    "coordinates": {
+      "lat": 40.78441,
+      "long": -4.00473
+    },
+    "address": "Calle de la Virgen de las Nieves 7",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C9. Dirección: Calle de la Virgen de las Nieves 7"
+  },
+  {
+    "id": "5-64",
+    "name": "Ramón Y Cajal",
+    "lines": [
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.48824,
+      "long": -3.69473
+    },
+    "address": "Calle de San Modesto 50",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C8A, C8. Dirección: Calle de San Modesto 50"
+  },
+  {
+    "id": "5-65",
+    "name": "Recoletos",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.42341,
+      "long": -3.69086
+    },
+    "address": "Paseo de Recoletos 20",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8, C10. Dirección: Paseo de Recoletos 20"
+  },
+  {
+    "id": "5-66",
+    "name": "Las Retamas",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.34189,
+      "long": -3.84242
+    },
+    "address": "Avda de Retamas 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda de Retamas 2"
+  },
+  {
+    "id": "5-67",
+    "name": "Robledo De Chavela",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.52078,
+      "long": -4.24671
+    },
+    "address": "Calle de Francisco Quevedo 295",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Calle de Francisco Quevedo 295"
+  },
+  {
+    "id": "5-68",
+    "name": "Las Rozas",
+    "lines": [
+      "C7",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.49423,
+      "long": -3.86812
+    },
+    "address": "Calle de la Vía de Servicio de las Rozas 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C10. Dirección: Calle de la Vía de Servicio de las Rozas 1"
+  },
+  {
+    "id": "5-69",
+    "name": "San Cristóbal De Los Angeles",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.34236,
+      "long": -3.68385
+    },
+    "address": "Calle de Paterna 17",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Calle de Paterna 17"
+  },
+  {
+    "id": "5-70",
+    "name": "San Cristóbal Industrial",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.33191,
+      "long": -3.69872
+    },
+    "address": "Acces a la Colonia Marconi 11",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Acces a la Colonia Marconi 11"
+  },
+  {
+    "id": "5-71",
+    "name": "San Fernando",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.44266,
+      "long": -3.53385
+    },
+    "address": "Calle Estación de ferrocarril 6",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle Estación de ferrocarril 6"
+  },
+  {
+    "id": "5-72",
+    "name": "San José De Valderas",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.35653,
+      "long": -3.81588
+    },
+    "address": "Calle de Sahagún 36",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle de Sahagún 36"
+  },
+  {
+    "id": "5-74",
+    "name": "San Yago",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.61787,
+      "long": -4.03111
+    },
+    "address": "Avda Saltos del Sil 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Avda Saltos del Sil 1"
+  },
+  {
+    "id": "5-75",
+    "name": "Santa Eugenia",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.38699,
+      "long": -3.60906
+    },
+    "address": "Avda de Santa Eugenia 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Avda de Santa Eugenia 2"
+  },
+  {
+    "id": "5-76",
+    "name": "Santa María De La Alameda",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.56892,
+      "long": -4.26933
+    },
+    "address": "Calle Doce de Octubre 20",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Calle Doce de Octubre 20"
+  },
+  {
+    "id": "5-77",
+    "name": "La Serna",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.29672,
+      "long": -3.79248
+    },
+    "address": "Calle Barcelona 28",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle Barcelona 28"
+  },
+  {
+    "id": "5-81",
+    "name": "Torrejón De Ardoz",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.4546,
+      "long": -3.47982
+    },
+    "address": "Paseo Estación 3",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Paseo Estación 3"
+  },
+  {
+    "id": "5-82",
+    "name": "Torrelodones",
+    "lines": [
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.57451,
+      "long": -3.95654
+    },
+    "address": "Plaza de Salvador Sánchez Frascuelo 6",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A, C8, C10. Dirección: Plaza de Salvador Sánchez Frascuelo 6"
+  },
+  {
+    "id": "5-83",
+    "name": "Tres Cantos",
+    "lines": [
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.59844,
+      "long": -3.71564
+    },
+    "address": "Plaza de la Estación 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4B. Dirección: Plaza de la Estación 1"
+  },
+  {
+    "id": "5-84",
+    "name": "Universidad P. Comillas",
+    "lines": [
+      "C4A"
+    ],
+    "coordinates": {
+      "lat": 40.55406,
+      "long": -3.68334
+    },
+    "address": "Ctra del Goloso SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A. Dirección: Ctra del Goloso SN"
+  },
+  {
+    "id": "5-85",
+    "name": "Valdelasfuentes",
+    "lines": [
+      "C4A"
+    ],
+    "coordinates": {
+      "lat": 40.54745,
+      "long": -3.65434
+    },
+    "address": "Calle del Marqués de la Valdavia 140",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A. Dirección: Calle del Marqués de la Valdavia 140"
+  },
+  {
+    "id": "5-86",
+    "name": "Valdemoro",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.19604,
+      "long": -3.66482
+    },
+    "address": "Paseo de la Estación 86",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Paseo de la Estación 86"
+  },
+  {
+    "id": "5-87",
+    "name": "Vallecas",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.38221,
+      "long": -3.62455
+    },
+    "address": "Avda de la Democracia 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Avda de la Democracia 1"
+  },
+  {
+    "id": "5-90",
+    "name": "Vicálvaro",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.40132,
+      "long": -3.59593
+    },
+    "address": "Calle de San Cipriano 85",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle de San Cipriano 85"
+  },
+  {
+    "id": "5-91",
+    "name": "Villalba De Guadarrama",
+    "lines": [
+      "C8A",
+      "C8",
+      "C10"
+    ],
+    "coordinates": {
+      "lat": 40.62637,
+      "long": -4.0081
+    },
+    "address": "Plaza de la Estación 1",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A, C8, C10. Dirección: Plaza de la Estación 1"
+  },
+  {
+    "id": "5-92",
+    "name": "Villaverde Alto",
+    "lines": [
+      "C4A",
+      "C4B",
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.34123,
+      "long": -3.71193
+    },
+    "address": "Calle del Valle de Tobalina 56",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C4A, C4B, C5. Dirección: Calle del Valle de Tobalina 56"
+  },
+  {
+    "id": "5-93",
+    "name": "Villaverde Bajo",
+    "lines": [
+      "C3",
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.35264,
+      "long": -3.68398
+    },
+    "address": "Paseo de la Estación 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3, C4A, C4B. Dirección: Paseo de la Estación 2"
+  },
+  {
+    "id": "5-94",
+    "name": "Zarzalejo",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.53872,
+      "long": -4.15817
+    },
+    "address": "Calle del Ferrocarril 13",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Calle del Ferrocarril 13"
+  },
+  {
+    "id": "5-95",
+    "name": "Zarzaquemada",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.34085,
+      "long": -3.7483
+    },
+    "address": "Avda Europa 14",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Avda Europa 14"
+  },
+  {
+    "id": "5-96",
+    "name": "Las Zorreras",
+    "lines": [
+      "C8A"
+    ],
+    "coordinates": {
+      "lat": 40.60941,
+      "long": -4.04606
+    },
+    "address": "Calle Alcudia 26",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C8A. Dirección: Calle Alcudia 26"
+  },
+  {
+    "id": "5-103",
+    "name": "El Casar",
+    "lines": [
+      "C3"
+    ],
+    "coordinates": {
+      "lat": 40.31847,
+      "long": -3.70984
+    },
+    "address": "Avda del Casar 2",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3. Dirección: Avda del Casar 2"
+  },
+  {
+    "id": "5-104",
+    "name": "Humanes",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.25565,
+      "long": -3.82847
+    },
+    "address": "Calle Cenicientos 26",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle Cenicientos 26"
+  },
+  {
+    "id": "5-105",
+    "name": "Parque Polvoranca",
+    "lines": [
+      "C5"
+    ],
+    "coordinates": {
+      "lat": 40.3125,
+      "long": -3.78334
+    },
+    "address": "Calle Alcalde Francisco Moreno Menéndez 4",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C5. Dirección: Calle Alcalde Francisco Moreno Menéndez 4"
+  },
+  {
+    "id": "5-106",
+    "name": "La Garena",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.48043,
+      "long": -3.39317
+    },
+    "address": "Calle Fausto Elhuyar 6",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Calle Fausto Elhuyar 6"
+  },
+  {
+    "id": "5-122",
+    "name": "Sol",
+    "lines": [
+      "C3",
+      "C4A",
+      "C4B"
+    ],
+    "coordinates": {
+      "lat": 40.41685,
+      "long": -3.70309
+    },
+    "address": "Plaza de la Puerta del Sol 6",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C3, C4A, C4B. Dirección: Plaza de la Puerta del Sol 6"
+  },
+  {
+    "id": "5-133",
+    "name": "Fuente De La Mora",
+    "lines": [
+      "C1"
+    ],
+    "coordinates": {
+      "lat": 40.48475,
+      "long": -3.66282
+    },
+    "address": "Calle de Dulce Chacón 15",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C1. Dirección: Calle de Dulce Chacón 15"
+  },
+  {
+    "id": "5-142",
+    "name": "Aeropuerto T4",
+    "lines": [
+      "C1"
+    ],
+    "coordinates": {
+      "lat": 40.49177,
+      "long": -3.59333
+    },
+    "address": "Ctra de Alcobendas a Barajas SN",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C1. Dirección: Ctra de Alcobendas a Barajas SN"
+  },
+  {
+    "id": "5-143",
+    "name": "Soto Del Henares",
+    "lines": [
+      "C2",
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.46353,
+      "long": -3.44134
+    },
+    "address": "Paseo de la Democracia 17",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C2, C7, C8A, C8. Dirección: Paseo de la Democracia 17"
+  },
+  {
+    "id": "5-144",
+    "name": "Valdebebas",
+    "lines": [
+      "C1"
+    ],
+    "coordinates": {
+      "lat": 40.4823,
+      "long": -3.61642
+    },
+    "address": "Avda de las Fuerzas Armadas 322",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C1. Dirección: Avda de las Fuerzas Armadas 322"
+  },
+  {
+    "id": "5-145",
+    "name": "Mirasierra - Paco De Lucía",
+    "lines": [
+      "C7",
+      "C8A",
+      "C8"
+    ],
+    "coordinates": {
+      "lat": 40.49971,
+      "long": -3.70918
+    },
+    "address": "Calle de la Costa Brava 14 B",
+    "network": "cercanias",
+    "description": "Estación de Renfe Cercanías, Línea(s) C7, C8A, C8. Dirección: Calle de la Costa Brava 14 B"
+  }
+]
