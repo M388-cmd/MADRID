@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;700&family=Space+Grotesk:wght@500;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --font-display: "Space Grotesk", sans-serif;
+}
+
+:root {
+  --metro-blue: #0076C0;
+  --metro-red: #E21F1F;
+  --metro-grey: #121212;
+  --accent-green: #4CAF50;
+  --digital-glow: rgba(0, 118, 192, 0.3);
+}
+
+@layer utilities {
+  /* Sleek Interface active digital card glowing */
+  .card-sleek-active {
+    border-color: var(--metro-blue) !important;
+    box-shadow: 0 0 25px var(--digital-glow);
+  }
+  
+  /* CRT Dot Matrix / Scanline overlay for high realism */
+  .led-scanlines {
+    position: relative;
+    overflow: hidden;
+  }
+  .led-scanlines::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%);
+    z-index: 2;
+    background-size: 100% 4px;
+    pointer-events: none;
+  }
+}
+
+/* Base style resets */
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar matching OLED style */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #27272a;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #3f3f46;
+}
